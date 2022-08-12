@@ -2,7 +2,7 @@
 
 1、use android platform
 
-2、run flutter app on flutter sdk v3.0.5
+2、run flutter app on flutter sdk v3.0.1 ~ v3.0.5
 ```shell
 flutter run -v
 ```
